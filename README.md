@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:BAE6FD&height=220&section=header&text=Sara%20Faisal%20Alrobaiq&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Information%20Systems%20Major%20%E2%9C%A6%20Building%20and%20learning%20one%20project%20at%20a%20time&descAlignY=56&descSize=17" alt="Sara Faisal Alrobaiq animated profile banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0EA5E9,100:BAE6FD&height=220&section=header&text=Sara%20Faisal%20Alrobaiq&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Information%20Systems%20Major%20%E2 alt="Sara Faisal Alrobaiq animated profile banner" width="100%" />
 
 <pre>
 ┊         ┊       ┊   ┊    ┊        ┊
@@ -12,7 +12,7 @@
            ˚★
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=23&pause=1100&color=0EA5E9&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+corner+of+GitHub+%E2%9C%A6;coding%2C+learning%2C+and+building+in+Java+%E2%98%85" alt="Animated welcome message" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=23&pause=1100&color=0EA5E9&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+%E2%9C%A6;coding%2C+learning%2C+and+building+in+Java+%E2%98%85" alt="Animated welcome message" />
 
 <br />
 
