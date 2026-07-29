@@ -12,7 +12,7 @@
            ˚★
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=23&pause=1100&color=0EA5E9&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+corner+of+GitHub+%E2%9C%A6;Dreaming%2C+learning%2C+and+building+in+Java+%E2%98%85" alt="Animated welcome message" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=23&pause=1100&color=0EA5E9&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+corner+of+GitHub+%E2%9C%A6;coding%2C+learning%2C+and+building+in+Java+%E2%98%85" alt="Animated welcome message" />
 
 <br />
 
@@ -25,17 +25,17 @@
 
 </div>
 
-## ✦ Hi, I'm Sara
+## ✦ Hi, I'm Sara Faisal Alrobaiq
 
-<p align="center"><i>“A little progress each day adds up to big things.”</i></p>
+<p align="center"><i>“ ☾⋆.˚I'm an Information Systems student @ ksu who is building projects, learning Java, and growing my skills one step at a time 🦢 ྀི ”</i></p>
 
-I'm an Information Systems student @ ksu who is building projects, learning Java, and growing my skills one step at a time. ☁️
+
 
 ## ☾ What I'm working on
 
-- 📚 Building a Java reading-list app called **Bookshelf**
-- 🌱 Learning more about Java and GitHub
-- ✨ Creating projects and sharing my progress
+- 🦢 ྀི Building a Java reading-list app called **Bookshelf**
+- 🦢 ྀི Learning more about Java and GitHub
+- 🦢 ྀི Creating projects and sharing my progress
 
 ## ✧ Find me online
 
